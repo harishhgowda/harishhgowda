@@ -1,0 +1,40 @@
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.util.Scanner;
+public class ByteArrayExample {
+ public static void main(String[] args) {
+ // Read a string from the user
+ String userInput = getUserInput();
+ // Write the string to a byte array
+ byte[] byteArray = writeToByteArray(userInput);
+ // Read from the byte array and display content
+ readAndDisplayFromByteArray(byteArray);
+ }
+ private static String getUserInput() {
+ Scanner scanner = new Scanner(System.in);
+ System.out.print("Enter a string: ");
+ return scanner.nextLine();
+ }
+ private static byte[] writeToByteArray(String inputString) {
+ try (ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream()) {
+ byte[] bytes = inputString.getBytes();
+ byteArrayOutputStream.write(bytes);
+ System.out.println("String has been written to the byte array.");
+ return byteArrayOutputStream.toByteArray();
+ } catch (IOException e) {
+ System.out.println("An error occurred while writing to the byte array: " + e.getMessage());
+ return new byte[0];
+ }
+ }
+ private static void readAndDisplayFromByteArray(byte[] byteArray) {
+ try (ByteArrayInputStream byteArrayInputStream = new ByteArrayInputStream(byteArray)) {
+ byte[] buffer = new byte[1024];
+ int bytesRead = byteArrayInputStream.read(buffer);
+ String content = new String(buffer, 0, bytesRead);
+ System.out.println("Content read from the byte array: " + content);
+ } catch (IOException e) {
+ System.out.println("An error occurred while reading from the byte array: " + e.getMessage());
+}
+ }
+}
