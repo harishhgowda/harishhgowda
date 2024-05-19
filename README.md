@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/harishhgowda](github.com/harishhgowda)
 
-- 📫 How to reach me **harishharishgowda42@gmail.com**
+- 📫 How to reach me **harishhgowdaa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R5HTBo5hWzHodwTGhjVG5s5GM1GGXBHV/view?usp=drivesdk](https://drive.google.com/file/d/1R5HTBo5hWzHodwTGhjVG5s5GM1GGXBHV/view?usp=drivesdk)
+- 📄 Know about my experiences [https://github.com/harishhgowda/harishhgowda/blob/main/My_Resume.tex)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
