@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/harishhgowda" target="blank"><img src="https://img.shields.io/twitter/follow/harishhgowda?logo=twitter&style=for-the-badge" alt="harishhgowda" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/harishhgowda](github.com/harishhgowda]
+- 👨‍💻 All of my projects are available at [github.com/harishhgowda]
 
 - 📫 How to reach me **harishhgowdaa@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/harishhgowda/harishhgowda/blob/main/My_Resume.tex)
+- 📄 Know about my experiences [https://github.com/harishhgowda/harishhgowda/blob/main/My_Resume.tex]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
