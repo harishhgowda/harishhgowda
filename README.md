@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harishhgowdaa@gmail.com**
 
-- 📄 Know about my experiences [(https://github.com/harishhgowda/harishhgowda/blob/main/My%20Resume.pdf)]
+- 📄 Know about my experiences **click here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
