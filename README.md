@@ -7,11 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/harishhgowda" target="blank"><img src="https://img.shields.io/twitter/follow/harishhgowda?logo=twitter&style=for-the-badge" alt="harishhgowda" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/harishhgowda]
+- 👨‍💻 All of my projects are available at <a href="https://github.com/harishhgowda">Github</a>
 
 - 📫 How to reach me **harishhgowdaa@gmail.com**
 
-- 📄 Know about my experiences **click here**
+- 📄 Know about my experiences **<a href="https://harishhgowda.netlify.app">Portfolio</a>
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
