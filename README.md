@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **harishhgowdaa@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://harishhgowda.netlify.app">Portfolio</a>
-**
+- 📄 Know about my experiences <a href="https://harishgowdaa.netlify.app">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
